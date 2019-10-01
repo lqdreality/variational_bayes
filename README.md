@@ -1,0 +1,1 @@
+Lecture I put together for MITLL's "Decision Making Under Uncertainty" course on Variational Bayesian Inference
